@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YT Digest Podcast</title>
+    <style>
+        body { font-family: system-ui, sans-serif; max-width: 600px; margin: 4rem auto; padding: 0 1rem; color: #333; }
+        h1 { font-size: 1.5rem; }
+        a { color: #0066cc; }
+        code { background: #f0f0f0; padding: 0.2em 0.4em; border-radius: 3px; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <h1>YT Digest Podcast</h1>
+    <p>Auto-generated weekly podcast from YouTube subscription transcripts via NotebookLM.</p>
+    <p>Subscribe in your podcast app:</p>
+    <p><code id="feed-url"></code></p>
+    <script>
+        document.getElementById('feed-url').textContent = window.location.href + 'podcast.xml';
+    </script>
+</body>
+</html>
