@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-23",
+  "episode": 2,
+  "total_episodes": 10,
+  "theme": "Claude Opus Redesign",
+  "notebook_name": "YT Digest \u2014 2026-04-23 \u2014 Claude Opus Redesign",
+  "videos": [
+    {
+      "title": "Claude Design: Full Walkthrough. I'm blown away.",
+      "channel_name": "Greg Isenberg",
+      "url": "https://www.youtube.com/watch?v=vyLaimDeK_g",
+      "published": "2026-04-18T21:20:00+00:00"
+    },
+    {
+      "title": "A new model like Claude Opus 4.7 does not automatically perform better across every category.",
+      "channel_name": "BridgeMind AI",
+      "url": "https://www.youtube.com/watch?v=pBSXCrNJx2Y",
+      "published": "2026-04-23T14:04:04+00:00"
+    },
+    {
+      "title": "I had Claude Opus 4.7 redesign the landing page of Bridgemind, and the results show exactly why this",
+      "channel_name": "BridgeMind AI",
+      "url": "https://www.youtube.com/watch?v=7JrJeHrYJlE",
+      "published": "2026-04-23T12:17:43+00:00"
+    },
+    {
+      "title": "See what happens when Claude 4.7 Opus tackles a complete redesign of the Bridge Space command center",
+      "channel_name": "BridgeMind AI",
+      "url": "https://www.youtube.com/watch?v=0k3K-Txy80w",
+      "published": "2026-04-22T23:03:49+00:00"
+    },
+    {
+      "title": "This thirty second marketing video for Bridge Code was built entirely using ReMotion and Claude Opus",
+      "channel_name": "BridgeMind AI",
+      "url": "https://www.youtube.com/watch?v=7Ljt3Glj-Bg",
+      "published": "2026-04-22T21:03:00+00:00"
+    }
+  ]
+}
