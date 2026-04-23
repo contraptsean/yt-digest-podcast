@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>YT Digest Podcast</title>
+    <description>Auto-generated weekly podcast from YouTube subscription transcripts via NotebookLM</description>
+    <link>https://contraptsean.github.io/yt-digest-podcast/</link>
+    <language>en-us</language>
+    <generator>yt-digest-pipeline</generator>
+    <lastBuildDate>Thu, 23 Apr 2026 23:13:22 +0000</lastBuildDate>
+    <itunes:author>YT Digest Pipeline</itunes:author>
+    <itunes:summary>Auto-generated weekly podcast from YouTube subscription transcripts via NotebookLM</itunes:summary>
+    <itunes:owner>
+      <itunes:name>YT Digest Pipeline</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>8ffc0e22 — 7232 — 4984 — b5cd — 2c15b1c1c9e5 audio</title>
+      <description>YT Digest for 8ffc0e22 — 7232 — 4984 — b5cd — 2c15b1c1c9e5 audio
+
+Videos covered in this episode:
+
+- Greg Isenberg: Hermes Agent: The New OpenClaw? (https://www.youtube.com/watch?v=Qn2c_U-cWQs)
+- AI Jason: Okay, this unleashed my agent (https://www.youtube.com/watch?v=2zhchG0r6iI)
+- AI Code King: Qwen 3.6 27B + Hermes,OpenCode,OpenClaw: THIS IS SO GOOD! The BEST LOCAL AI CODER! (https://www.youtube.com/watch?v=SjBBUB1njBc)
+- AI Code King: OpenClaw SUPER MODE: OpenClaw just got 2X BETTER with this MODE!! (https://www.youtube.com/watch?v=zPzFKigN7lY)
+- Cole Medin: Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat) (https://www.youtube.com/watch?v=XSmI7OYd7iM)
+- Build Great Products: How to Build ACTUALLY Beautiful Websites With Claude Design &amp; Claude Code (https://www.youtube.com/watch?v=8GXvgxKPATk)</description>
+      <pubDate>Thu, 23 Apr 2026 23:03:24 +0000</pubDate>
+      <enclosure url="https://contraptsean.github.io/yt-digest-podcast/audio/8ffc0e22-7232-4984-b5cd-2c15b1c1c9e5_audio.m4a" length="37501484" type="audio/x-m4a" />
+      <guid isPermaLink="true">https://contraptsean.github.io/yt-digest-podcast/audio/8ffc0e22-7232-4984-b5cd-2c15b1c1c9e5_audio.m4a</guid>
+      <itunes:duration>0</itunes:duration>
+      <itunes:summary>YT Digest for 8ffc0e22 — 7232 — 4984 — b5cd — 2c15b1c1c9e5 audio
+
+Videos covered in this episode:
+
+- Greg Isenberg: Hermes Agent: The New OpenClaw? (https://www.youtube.com/watch?v=Qn2c_U-cWQs)
+- AI Jason: Okay, this unleashed my agent (https://www.youtube.com/watch?v=2zhchG0r6iI)
+- AI Code King: Qwen 3.6 27B + Hermes,OpenCode,OpenClaw: THIS IS SO GOOD! The BEST LOCAL AI CODER! (https://www.youtube.com/watch?v=SjBBUB1njBc)
+- AI Code King: OpenClaw SUPER MODE: OpenClaw just got 2X BETTER with this MODE!! (https://www.youtube.com/watch?v=zPzFKigN7lY)
+- Cole Medin: Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat) (https://www.youtube.com/watch?v=XSmI7OYd7iM)
+- Build Great Products: How to Build ACTUALLY Beautiful Websites With Claude Design &amp; Claude Code (https://www.youtube.com/watch?v=8GXvgxKPATk)</itunes:summary>
+    </item>
+  </channel>
+</rss>

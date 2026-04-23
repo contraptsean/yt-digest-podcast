@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-23",
+  "episode": 1,
+  "total_episodes": 10,
+  "theme": "Openclaw Agent Hermes",
+  "notebook_name": "YT Digest \u2014 2026-04-23 \u2014 Openclaw Agent Hermes",
+  "videos": [
+    {
+      "title": "Hermes Agent: The New OpenClaw?",
+      "channel_name": "Greg Isenberg",
+      "url": "https://www.youtube.com/watch?v=Qn2c_U-cWQs",
+      "published": "2026-04-20T18:00:21+00:00"
+    },
+    {
+      "title": "Okay, this unleashed my agent",
+      "channel_name": "AI Jason",
+      "url": "https://www.youtube.com/watch?v=2zhchG0r6iI",
+      "published": "2026-04-21T12:04:32+00:00"
+    },
+    {
+      "title": "Qwen 3.6 27B + Hermes,OpenCode,OpenClaw: THIS IS SO GOOD! The BEST LOCAL AI CODER!",
+      "channel_name": "AI Code King",
+      "url": "https://www.youtube.com/watch?v=SjBBUB1njBc",
+      "published": "2026-04-23T09:15:02+00:00"
+    },
+    {
+      "title": "OpenClaw SUPER MODE: OpenClaw just got 2X BETTER with this MODE!!",
+      "channel_name": "AI Code King",
+      "url": "https://www.youtube.com/watch?v=zPzFKigN7lY",
+      "published": "2026-04-17T09:15:11+00:00"
+    },
+    {
+      "title": "Pi Coding Agent + Archon: Build ANY AI Coding Workflow (No Claude Code Bloat)",
+      "channel_name": "Cole Medin",
+      "url": "https://www.youtube.com/watch?v=XSmI7OYd7iM",
+      "published": "2026-04-20T21:00:28+00:00"
+    },
+    {
+      "title": "How to Build ACTUALLY Beautiful Websites With Claude Design & Claude Code",
+      "channel_name": "Build Great Products",
+      "url": "https://www.youtube.com/watch?v=8GXvgxKPATk",
+      "published": "2026-04-22T14:00:12+00:00"
+    }
+  ]
+}
